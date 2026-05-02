@@ -1,7 +1,4 @@
-# Practica_forense
-Análisis forense de comunicaciones de una aplicación móvil en un entorno WiFi controlado
-
-# RA2 · Análisis Forense de Comunicaciones Móviles
+# Análisis Forense de Comunicaciones Móviles
 **GS Ciberseguridad · Análisis Forense · Prof. Carlos Basulto Pardo**
 
 > Uso exclusivo en entorno de laboratorio autorizado. No usar fuera de redes propias.
